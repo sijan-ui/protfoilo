@@ -124,16 +124,34 @@ p{
 }
 
 .work2{
-    margin: 100px;
+    
 }
 
 .space{
-         margin-top: 150px;  
+         margin-top: 500px;  
          margin-left: 350px; 
-         color: white; 
+         
+}
+.degin{
+    text-align: center;
+    color: black;
+    background-color: rgb(175, 170, 170);
+    
+}
+.type{
+    margin-top: 200px;
+    font-weight: 700;
 }
 
+/* exta tage hover  */
 
+a:hover {
+    background-color: gray;
+  }
 
-
-
+  p:hover {
+    background-color: yellowgreen;
+  }
+  h1:hover, h2:hover{
+      font-size: 200%;
+  }
